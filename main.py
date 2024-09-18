@@ -48,5 +48,7 @@ def main():
     
     actor_system.shutdown()
 
+    print("Que tenga buen dia")
+
 if __name__ == "__main__":
     main()
