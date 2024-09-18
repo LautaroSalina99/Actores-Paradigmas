@@ -52,3 +52,5 @@ def scrape_fullh4rd(soup):
         description = ' '.join(info_div.stripped_strings)
 
     return price, availability, promotion, description
+
+#BUEN CODIGO
