@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "name": "Mouse",
+        "sources": [
+          "https://www.fullh4rd.com.ar/prod/12631/mouse-logitech-g502-wireless-gaming-lightspeed-910-005566",
+          "https://www.mercadolibre.com.ar/logitech-g-series-lightspeed-g502-negro/p/MLA15173180"
+        ]
+      },
+      {
+        "name": "Teclado",
+        "sources": [
+          "https://www.fullh4rd.com.ar/prod/9680/teclado-gamer-redragon-kumara-k552-rainbow-red-switch",
+          "https://www.mercadolibre.com.ar/redragon-kumara-k552-negro-rgb-qwerty-espanol-latinoamerica-outemu-red/p/MLA19472215"
+        ]
+      },
+      {
+        "name": "Auriculares",
+        "sources": [
+          "https://www.mercadolibre.com.ar/auriculares-gamer-hyperx-cloud-stinger-2-negro-519t1aa/p/MLA23444052",
+          "https://tiendamia.com/ar/producto?amz=B0B8PGDMWK&pName=Cloud%20Stinger%202"
+        ]
+      }
+    ]
+  }
+  
